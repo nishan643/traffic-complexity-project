@@ -1,4 +1,4 @@
-# 🚗 Traffic Flow as a Complex System (A+ Project)
+# 🚗 Traffic Flow as a Complex System 
 
 ## 🔍 Overview
 This project applies **complexity science** to traffic flow using a cellular automaton model (Nagel–Schreckenberg model).
@@ -48,7 +48,7 @@ python analysis.py
 ---
 
 ## 👨‍💻 Author
-Nishan Biswas
+Nishan Biswas 2023CH70005
 
 ---
 
