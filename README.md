@@ -48,7 +48,7 @@ python analysis.py
 ---
 
 ## 👨‍💻 Author
-Your Name
+Nishan Biswas
 
 ---
 
